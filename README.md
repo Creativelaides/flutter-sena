@@ -1,16 +1,46 @@
-# notas_sena
+<!-- Reemplaza 'url_del_logo.png' con la URL o ruta de tu logo -->
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sena_Colombia_logo.svg/1200px-Sena_Colombia_logo.svg.png" width="80px"></p>
 
-A new Flutter project.
+# Proyecto de Calculadora de Notas
 
-## Getting Started
+Una aplicación simple para calcular y mostrar estadísticas relacionadas con las notas de exámenes.
 
-This project is a starting point for a Flutter application.
+## Tecnologías Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+[![Flutter](https://img.shields.io/badge/Flutter-2.5.0-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-2.14.0-0175C2?style=for-the-badge&logo=dart)](https://dart.dev)
+[![GetX](https://img.shields.io/badge/GetX-4.6.1-ff69b4?style=for-the-badge)](https://pub.dev/packages/get)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Descripción
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este proyecto es una aplicación Flutter que permite a los usuarios calcular el promedio, la nota más alta y la nota más baja de un conjunto de notas ingresadas.
+
+## Capturas de Pantalla
+
+*Inserta tus capturas de pantalla aquí*
+
+## Características Principales
+
+- Calcula el promedio de las notas ingresadas.
+- Encuentra la nota más alta y la más baja.
+- Interfaz de usuario intuitiva y fácil de usar.
+
+## Instalación
+
+Asegúrate de tener Flutter y Dart instalados en tu sistema. Luego, clona el repositorio y ejecuta el siguiente comando:
+
+```bash
+flutter run
+```
+
+## Contribuir
+
+Si deseas contribuir a este proyecto, ¡estamos abiertos a las contribuciones! Siéntete libre de abrir problemas o enviar solicitudes de extracción.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+
+---
+
+Hecho con ❤️ por **Jose Velaides Machado**
